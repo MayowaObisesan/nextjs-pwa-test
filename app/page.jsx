@@ -1,6 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
-import InstallPWA from "./components/Install";
+import InstallPWA from "./components/install";
 
 export default function Home() {
   return (
